@@ -1,0 +1,21 @@
+[
+{
+"modid": "CthulhuTweaks",
+"name": "Cthulhu Tweaks",
+"description": "Tweaks and changes for Cthulhu Awakens Modpack",
+"version": "1.0",
+"mcversion": "1.7.10",
+"url": "",
+"updateUrl": "",
+"authorList": [
+"Tedyhere"
+],
+"credits": "shinoow",
+"logoFile": "",
+"screenshots": [
+],
+"parent":"",
+"dependencies": [
+]
+}
+]

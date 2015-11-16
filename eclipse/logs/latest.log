@@ -1,0 +1,29 @@
+[15:57:27] [main/INFO]: Logging in with username & password
+[15:57:31] [main/INFO]: Setting user: tedyhere
+[15:57:32] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:57:33] [Twitch authenticator/ERROR]: Given twitch access token is invalid
+[15:57:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cthulhu Tweaks
+[15:57:41] [Sound Library Loader/INFO]: Sound engine started
+[15:57:41] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[15:57:41] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[15:57:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cthulhu Tweaks
+[15:57:42] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:57:42] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:57:43] [Sound Library Loader/INFO]: Sound engine started
+[15:57:46] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:57:46] [Server thread/INFO]: Generating keypair
+[15:57:46] [Server thread/INFO]: Preparing start region for level 0
+[15:57:47] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:57:47] [Server thread/INFO]: tedyhere[local:E:624463f0] logged in with entity id 295 at (727.1528179778089, 4.0, 432.4923658965634)
+[15:57:47] [Server thread/INFO]: tedyhere joined the game
+[15:57:54] [Server thread/INFO]: Saving and pausing game...
+[15:57:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:57:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:57:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:57:54] [Server thread/INFO]: Stopping server
+[15:57:54] [Server thread/INFO]: Saving players
+[15:57:54] [Server thread/INFO]: Saving worlds
+[15:57:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:57:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:57:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:57:57] [Client thread/INFO]: Stopping!
